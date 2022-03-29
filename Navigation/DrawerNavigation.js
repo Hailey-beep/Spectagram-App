@@ -1,5 +1,5 @@
 import React from "react";
-import {creatDrawerNavigator} from "@react-native/drawer";
+import {creatDrawerNavigator} from "@react-navigation/drawer";
 import TabNavigator from "./TabNavigator";
 import Profile from "../Screens/Profile";
 
